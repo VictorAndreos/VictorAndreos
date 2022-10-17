@@ -4,7 +4,7 @@
  <div>
    ## Bem-vindo(a) ao perfil do Vitor Andreos 😁
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorandreos&show_icons=true&theme=radical)
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorandreos&show_icons=true&theme=radical)
 </div>
 
 ### Tecnologias que uso no meu dia !!

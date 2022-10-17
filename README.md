@@ -4,8 +4,14 @@
  <div>
    ## Bem-vindo(a) ao perfil do Vitor Andreos 😁
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorandreos&show_icons=true&theme=radical)
+<div>
+   <a href="https://github.com/VictorAndreos">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorAndreos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAndreos&layout=compact&langs_count=6&theme=tokyonight"/>
+
 </div>
+
+
 
 ### Tecnologias que uso no meu dia !!
 
@@ -30,6 +36,5 @@
 
  
  
-  ![Snake animation](https://github.com/VitorAndreos/blob/output/github-contribution-grid-snake.svg)
-
+  ![Snake animation](https://github.com/VictorAndreos/VictorAndreos/blob/output/github-contribution-grid-snake.svg)
 </div>

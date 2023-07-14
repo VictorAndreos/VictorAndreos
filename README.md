@@ -2,8 +2,7 @@
 
 
  <div>
-  
-   ## Bem-vindo(a) ao perfil do Victor Andreos 😁
+
 
 <div>
    <a href="https://github.com/VictorAndreos">
